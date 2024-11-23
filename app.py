@@ -7,4 +7,16 @@ st.title("Text Summarization using BERT2BERT Encoder Decoder Model")
 st.subheader("Output:")
 
 # Text
-st.write("Model Trained Successfully!\nAccuracy:\nTraining Loss - Precision - Recall - F-Measure\n7.481323\t7.709305\t0.004800\t0.013600\t0.007000")
+st.write("Model Trained Successfully!")
+
+# Text
+st.write("Accuracy:\nTraining Loss - Precision - Recall - F-Measure")
+
+# Text
+st.write("Training Loss - Precision - Recall - F-Measure")
+
+# Text
+st.write("7.481323 - 7.709305 - 0.004800 - 0.013600 - 0.007000")
+
+# Display Image
+st.image("bargraph.jpeg", caption="Performance Metrics", use_column_width=True)
