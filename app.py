@@ -19,4 +19,4 @@ st.write("Training Loss - Precision - Recall - F-Measure")
 st.write("7.481323 - 7.709305 - 0.004800 - 0.013600 - 0.007000")
 
 # Display Image
-st.image("bargraph.jpeg", caption="Performance Metrics", use_column_width=True)
+st.image("comparison.png", caption="Comparison with Other Models", use_column_width=True)
